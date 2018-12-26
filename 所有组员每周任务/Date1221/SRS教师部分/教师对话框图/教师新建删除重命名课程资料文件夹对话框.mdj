@@ -2333,6 +2333,116 @@
 									"propertyLabel": {
 										"$ref": "AAAAAAFn2QRZAkjg5Nw="
 									}
+								},
+								{
+									"_type": "UMLFinalStateView",
+									"_id": "AAAAAAFn59bRHmHXWkk=",
+									"_parent": {
+										"$ref": "AAAAAAFn2KsOqHLZ7XM="
+									},
+									"model": {
+										"$ref": "AAAAAAFn59bRHmHWt+Y="
+									},
+									"font": "Arial;13;0",
+									"containerChangeable": true,
+									"left": 1129,
+									"top": 320,
+									"width": 26,
+									"height": 26
+								},
+								{
+									"_type": "UMLTransitionView",
+									"_id": "AAAAAAFn59beD2Hcalo=",
+									"_parent": {
+										"$ref": "AAAAAAFn2KsOqHLZ7XM="
+									},
+									"model": {
+										"$ref": "AAAAAAFn59beD2HbKzU="
+									},
+									"subViews": [
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFn59beD2HdaxM=",
+											"_parent": {
+												"$ref": "AAAAAAFn59beD2Hcalo="
+											},
+											"model": {
+												"$ref": "AAAAAAFn59beD2HbKzU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 1101,
+											"top": 311,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAFn59beD2Hcalo="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFn59beD2HeZdk=",
+											"_parent": {
+												"$ref": "AAAAAAFn59beD2Hcalo="
+											},
+											"model": {
+												"$ref": "AAAAAAFn59beD2HbKzU="
+											},
+											"visible": null,
+											"font": "Arial;13;0",
+											"left": 1101,
+											"top": 296,
+											"height": 13,
+											"alpha": 1.5707963267948966,
+											"distance": 30,
+											"hostEdge": {
+												"$ref": "AAAAAAFn59beD2Hcalo="
+											},
+											"edgePosition": 1
+										},
+										{
+											"_type": "EdgeLabelView",
+											"_id": "AAAAAAFn59beD2HftEE=",
+											"_parent": {
+												"$ref": "AAAAAAFn59beD2Hcalo="
+											},
+											"model": {
+												"$ref": "AAAAAAFn59beD2HbKzU="
+											},
+											"visible": false,
+											"font": "Arial;13;0",
+											"left": 1101,
+											"top": 341,
+											"height": 13,
+											"alpha": -1.5707963267948966,
+											"distance": 15,
+											"hostEdge": {
+												"$ref": "AAAAAAFn59beD2Hcalo="
+											},
+											"edgePosition": 1
+										}
+									],
+									"font": "Arial;13;0",
+									"head": {
+										"$ref": "AAAAAAFn59bRHmHXWkk="
+									},
+									"tail": {
+										"$ref": "AAAAAAFn2LQCHnYbP78="
+									},
+									"lineStyle": 1,
+									"points": "1074:332;1128:332",
+									"showVisibility": true,
+									"nameLabel": {
+										"$ref": "AAAAAAFn59beD2HdaxM="
+									},
+									"stereotypeLabel": {
+										"$ref": "AAAAAAFn59beD2HeZdk="
+									},
+									"propertyLabel": {
+										"$ref": "AAAAAAFn59beD2HftEE="
+									}
 								}
 							]
 						}
@@ -2440,6 +2550,13 @@
 										"$ref": "AAAAAAFn2KsOqHLYkAY="
 									},
 									"name": "重命名文件夹"
+								},
+								{
+									"_type": "UMLFinalState",
+									"_id": "AAAAAAFn59bRHmHWt+Y=",
+									"_parent": {
+										"$ref": "AAAAAAFn2KsOqHLYkAY="
+									}
 								}
 							],
 							"transitions": [
@@ -2788,6 +2905,19 @@
 											"name": "点击课程资料"
 										}
 									]
+								},
+								{
+									"_type": "UMLTransition",
+									"_id": "AAAAAAFn59beD2HbKzU=",
+									"_parent": {
+										"$ref": "AAAAAAFn2KsOqHLYkAY="
+									},
+									"source": {
+										"$ref": "AAAAAAFn2LQCHXYaEik="
+									},
+									"target": {
+										"$ref": "AAAAAAFn59bRHmHWt+Y="
+									}
 								}
 							]
 						}
