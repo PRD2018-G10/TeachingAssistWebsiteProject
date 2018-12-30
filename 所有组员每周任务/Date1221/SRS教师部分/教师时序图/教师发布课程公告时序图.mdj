@@ -42,7 +42,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "教师发布教学心得时序图",
+									"name": "教师发布课程公告时序图",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -65,7 +65,7 @@
 													"top": 5,
 													"width": 144,
 													"height": 13,
-													"text": "教师发布教学心得时序图"
+													"text": "教师发布课程公告时序图"
 												},
 												{
 													"_type": "LabelView",
@@ -262,7 +262,7 @@
 															"top": 47,
 															"width": 94,
 															"height": 13,
-															"text": "教学心得界面"
+															"text": "课程公告界面"
 														},
 														{
 															"_type": "LabelView",
@@ -377,7 +377,7 @@
 															"top": 47,
 															"width": 94,
 															"height": 13,
-															"text": "发布心得界面"
+															"text": "发布公告界面"
 														},
 														{
 															"_type": "LabelView",
@@ -583,16 +583,16 @@
 													},
 													"font": "Arial;13;0",
 													"left": 199,
-													"top": 112,
+													"top": 104,
 													"width": 239.0654296875,
 													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 10,
+													"alpha": 1.570795771239341,
+													"distance": 18,
 													"hostEdge": {
 														"$ref": "AAAAAAFn/w4nNfKIH80="
 													},
 													"edgePosition": 1,
-													"text": "1 : 输入心得内容"
+													"text": "1 : 输入公告标题和内容"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -814,7 +814,7 @@
 														"$ref": "AAAAAAFn/w8IjvK1kWY="
 													},
 													"edgePosition": 1,
-													"text": "3 : 提交心得信息"
+													"text": "3 : 提交公告信息"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -925,7 +925,7 @@
 														"$ref": "AAAAAAFn/w/YOPLZdwA="
 													},
 													"edgePosition": 1,
-													"text": "4 : 形成心得列表"
+													"text": "4 : 形成公告列表"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1073,7 +1073,7 @@
 														"$ref": "AAAAAAFn/xDCYvMCvt4="
 													},
 													"edgePosition": 1,
-													"text": "5 : 显示心得列表"
+													"text": "5 : 显示公告列表"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1177,7 +1177,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "输入心得内容",
+									"name": "输入公告标题和内容",
 									"source": {
 										"$ref": "AAAAAAFn2VDSIHBl37c="
 									},
@@ -1205,7 +1205,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "提交心得信息",
+									"name": "提交公告信息",
 									"source": {
 										"$ref": "AAAAAAFn/w2ADfJHscI="
 									},
@@ -1219,7 +1219,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "形成心得列表",
+									"name": "形成公告列表",
 									"source": {
 										"$ref": "AAAAAAFn/w2J2/JmYd0="
 									},
@@ -1234,7 +1234,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "显示心得列表",
+									"name": "显示公告列表",
 									"source": {
 										"$ref": "AAAAAAFn/w2ADfJHscI="
 									},
@@ -1262,7 +1262,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "教学心得界面",
+									"name": "课程公告界面",
 									"represent": {
 										"$ref": "AAAAAAFn2VZ0knFtxhs="
 									},
@@ -1274,7 +1274,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "发布心得界面",
+									"name": "发布公告界面",
 									"represent": {
 										"$ref": "AAAAAAFn/w2ADfJGsKA="
 									},

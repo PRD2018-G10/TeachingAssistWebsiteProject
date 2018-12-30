@@ -1200,7 +1200,7 @@
 														"$ref": "AAAAAAFn/vTd3BDKic0="
 													},
 													"edgePosition": 1,
-													"text": "6 : 输入修改信息"
+													"text": "6 : 输入编辑信息"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1758,7 +1758,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "输入修改信息",
+									"name": "输入编辑信息",
 									"source": {
 										"$ref": "AAAAAAFn2VDSIHBl37c="
 									},
@@ -2066,7 +2066,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role8"
+							"name": "Role8",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
