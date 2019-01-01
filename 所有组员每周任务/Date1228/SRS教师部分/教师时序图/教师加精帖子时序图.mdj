@@ -42,7 +42,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "教师回复帖子时序图",
+									"name": "教师加精帖子时序图",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -65,7 +65,7 @@
 													"top": 5,
 													"width": 118,
 													"height": 13,
-													"text": "教师回复帖子时序图"
+													"text": "教师加精帖子时序图"
 												},
 												{
 													"_type": "LabelView",
@@ -212,8 +212,8 @@
 												"$ref": "AAAAAAFn2VCxanBYooY="
 											},
 											"font": "Arial;15;0",
-											"left": 184,
-											"top": 128,
+											"left": 176,
+											"top": 136,
 											"width": 17,
 											"height": 33
 										},
@@ -374,7 +374,7 @@
 															"top": 47,
 															"width": 94,
 															"height": 13,
-															"text": "回复帖子界面"
+															"text": "加精帖子界面"
 														},
 														{
 															"_type": "LabelView",
@@ -476,7 +476,7 @@
 														"$ref": "AAAAAAFn/zdW0jTOEpY="
 													},
 													"edgePosition": 1,
-													"text": "1 : 选择某个帖子或回复"
+													"text": "1 : 选择某个帖子加精"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -587,7 +587,7 @@
 														"$ref": "AAAAAAFn/zesEDTkPbU="
 													},
 													"edgePosition": 1,
-													"text": "2 : 显示界面"
+													"text": "2 : 加精界面"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -916,7 +916,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 680,
-													"top": 279,
+													"top": 276,
 													"width": 70.0654296875,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -939,7 +939,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 715,
-													"top": 294,
+													"top": 291,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -960,7 +960,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 716,
-													"top": 259,
+													"top": 256,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -981,7 +981,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 628,
-													"top": 275,
+													"top": 272,
 													"width": 14,
 													"height": 25
 												}
@@ -993,7 +993,7 @@
 											"tail": {
 												"$ref": "AAAAAAFn/zcpnzSpHts="
 											},
-											"points": "804:275;628:275",
+											"points": "804:272;628:272",
 											"nameLabel": {
 												"$ref": "AAAAAAFn/znFvTUcCZ0="
 											},
@@ -1173,7 +1173,7 @@
 														"$ref": "AAAAAAFn/zuroTVSoYI="
 													},
 													"edgePosition": 1,
-													"text": "6 : 输入回复信息"
+													"text": "6 : 点击加精"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1296,7 +1296,7 @@
 														"$ref": "AAAAAAFn/zwQcDVtNyU="
 													},
 													"edgePosition": 1,
-													"text": "7 : 保存回复信息"
+													"text": "7 : 保存加精信息"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1555,7 +1555,7 @@
 														"$ref": "AAAAAAFn/z0LZDWo3GY="
 													},
 													"edgePosition": 1,
-													"text": "9 : 显示回复成功"
+													"text": "9 : 显示加精成功"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1671,7 +1671,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "选择某个帖子或回复",
+									"name": "选择某个帖子加精",
 									"source": {
 										"$ref": "AAAAAAFn2VDSIHBl37c="
 									},
@@ -1685,7 +1685,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "显示界面",
+									"name": "加精界面",
 									"source": {
 										"$ref": "AAAAAAFn2VZ0knFuVHY="
 									},
@@ -1743,7 +1743,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "输入回复信息",
+									"name": "点击加精",
 									"source": {
 										"$ref": "AAAAAAFn2VDSIHBl37c="
 									},
@@ -1757,7 +1757,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "保存回复信息",
+									"name": "保存加精信息",
 									"source": {
 										"$ref": "AAAAAAFn/zb5iTSB2A0="
 									},
@@ -1786,7 +1786,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "显示回复成功",
+									"name": "显示加精成功",
 									"source": {
 										"$ref": "AAAAAAFn/zb5iTSB2A0="
 									},
@@ -1932,7 +1932,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "回复帖子界面",
+									"name": "加精帖子界面",
 									"represent": {
 										"$ref": "AAAAAAFn/zb5iTSA2HY="
 									},
@@ -2043,7 +2043,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role10"
+							"name": "Role10",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2051,7 +2052,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role11"
+							"name": "Role11",
+							"type": ""
 						}
 					]
 				}
