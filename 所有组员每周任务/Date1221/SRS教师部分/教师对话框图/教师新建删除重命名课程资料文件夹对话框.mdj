@@ -1212,8 +1212,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 913,
-											"top": 311.5,
+											"left": 929,
+											"top": 319.5,
 											"height": 13,
 											"alpha": 2.356194490192345,
 											"distance": 20
@@ -1229,8 +1229,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 903,
-											"top": 301.5,
+											"left": 919,
+											"top": 309.5,
 											"height": 13,
 											"alpha": 2.356194490192345,
 											"distance": 35
@@ -1246,8 +1246,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 913,
-											"top": 340.5,
+											"left": 929,
+											"top": 348.5,
 											"height": 13,
 											"alpha": -2.356194490192345,
 											"distance": 20
@@ -1255,8 +1255,8 @@
 									],
 									"font": "Arial;13;0",
 									"containerChangeable": true,
-									"left": 912,
-									"top": 320,
+									"left": 928,
+									"top": 328,
 									"width": 33,
 									"height": 27,
 									"nameLabel": {
@@ -1288,17 +1288,18 @@
 											"model": {
 												"$ref": "AAAAAAFn2LMxFXXp5cg="
 											},
-											"visible": false,
 											"font": "Arial;13;0",
-											"left": 893,
-											"top": 294,
+											"left": 869,
+											"top": 308,
+											"width": 65,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
+											"alpha": 1.0177639555952036,
+											"distance": 7.211102550927978,
 											"hostEdge": {
 												"$ref": "AAAAAAFn2LMxFXXqAnM="
 											},
-											"edgePosition": 1
+											"edgePosition": 1,
+											"text": "文件夹名称"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -1311,8 +1312,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 899,
-											"top": 280,
+											"left": 907,
+											"top": 284,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1332,8 +1333,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 880,
-											"top": 321,
+											"left": 888,
+											"top": 325,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1351,7 +1352,7 @@
 										"$ref": "AAAAAAFn2K+gcHQw104="
 									},
 									"lineStyle": 1,
-									"points": "864:303;911:325",
+									"points": "864:303;927:333",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFn2LMxFXXrsss="
@@ -1535,8 +1536,8 @@
 												"$ref": "AAAAAAFn2LQpv3Y/qlU="
 											},
 											"font": "Arial;13;0",
-											"left": 959,
-											"top": 311,
+											"left": 965,
+											"top": 317,
 											"width": 26,
 											"height": 13,
 											"alpha": -4.434089981757062,
@@ -1558,8 +1559,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 976,
-											"top": 296,
+											"left": 981,
+											"top": 301,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -1579,8 +1580,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 976,
-											"top": 341,
+											"left": 985,
+											"top": 345,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -1598,7 +1599,7 @@
 										"$ref": "AAAAAAFn2LL0WnWvg2k="
 									},
 									"lineStyle": 1,
-									"points": "945:333;1007:332",
+									"points": "961:339;1007:335",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFn2LQpwHZB3g0="
@@ -1725,7 +1726,7 @@
 												"$ref": "AAAAAAFn2LdEm3akBu8="
 											},
 											"font": "Arial;13;0",
-											"left": 759,
+											"left": 767,
 											"top": 424,
 											"width": 26,
 											"height": 13,
@@ -1748,7 +1749,7 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 767,
+											"left": 775,
 											"top": 464,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -1769,7 +1770,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 768,
+											"left": 776,
 											"top": 419,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -1788,7 +1789,7 @@
 										"$ref": "AAAAAAFn2LL0WnWvg2k="
 									},
 									"lineStyle": 1,
-									"points": "928:347;928:440;608:440;606:368",
+									"points": "944:355;944:440;608:440;606:368",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFn2LdEm3amBo8="
@@ -2070,17 +2071,18 @@
 											"model": {
 												"$ref": "AAAAAAFn2Lt33nceo7k="
 											},
-											"visible": false,
 											"font": "Arial;13;0",
-											"left": 889,
-											"top": 314,
+											"left": 848,
+											"top": 336,
+											"width": 65,
 											"height": 13,
-											"alpha": 1.5707963267948966,
-											"distance": 15,
+											"alpha": -2.9964662823172263,
+											"distance": 18.110770276274835,
 											"hostEdge": {
 												"$ref": "AAAAAAFn2Lt33ncfSZ8="
 											},
-											"edgePosition": 1
+											"edgePosition": 1,
+											"text": "文件夹名称"
 										},
 										{
 											"_type": "EdgeLabelView",
@@ -2093,8 +2095,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 888,
-											"top": 299,
+											"left": 899,
+											"top": 304,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2114,8 +2116,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 890,
-											"top": 343,
+											"left": 897,
+											"top": 348,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2133,7 +2135,7 @@
 										"$ref": "AAAAAAFn2Lri3XbfdRo="
 									},
 									"lineStyle": 1,
-									"points": "870:336;911:334",
+									"points": "870:340;927:341",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFn2Lt33ncgdAw="
@@ -2166,8 +2168,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 876,
-											"top": 340,
+											"left": 888,
+											"top": 343,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 15,
@@ -2187,8 +2189,8 @@
 											},
 											"visible": null,
 											"font": "Arial;13;0",
-											"left": 868,
-											"top": 327,
+											"left": 882,
+											"top": 329,
 											"height": 13,
 											"alpha": 1.5707963267948966,
 											"distance": 30,
@@ -2208,8 +2210,8 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 891,
-											"top": 365,
+											"left": 901,
+											"top": 370,
 											"height": 13,
 											"alpha": -1.5707963267948966,
 											"distance": 15,
@@ -2227,7 +2229,7 @@
 										"$ref": "AAAAAAFn2K+qcHRVzn0="
 									},
 									"lineStyle": 1,
-									"points": "857:375;911:343",
+									"points": "864:377;927:349",
 									"showVisibility": true,
 									"nameLabel": {
 										"$ref": "AAAAAAFn2LyiaHdILtU="
@@ -2760,7 +2762,17 @@
 									},
 									"target": {
 										"$ref": "AAAAAAFn2LL0WnWu0RA="
-									}
+									},
+									"triggers": [
+										{
+											"_type": "UMLEvent",
+											"_id": "AAAAAAFoCIF/UGeLh6Q=",
+											"_parent": {
+												"$ref": "AAAAAAFn2LMxFXXp5cg="
+											},
+											"name": "文件夹名称"
+										}
+									]
 								},
 								{
 									"_type": "UMLTransition",
@@ -2868,7 +2880,17 @@
 									},
 									"target": {
 										"$ref": "AAAAAAFn2LL0WnWu0RA="
-									}
+									},
+									"triggers": [
+										{
+											"_type": "UMLEvent",
+											"_id": "AAAAAAFoCIHYD2eR7mA=",
+											"_parent": {
+												"$ref": "AAAAAAFn2Lt33nceo7k="
+											},
+											"name": "文件夹名称"
+										}
+									]
 								},
 								{
 									"_type": "UMLTransition",
