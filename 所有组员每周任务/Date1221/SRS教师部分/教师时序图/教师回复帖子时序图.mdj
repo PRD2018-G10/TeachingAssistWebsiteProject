@@ -318,14 +318,14 @@
 													"left": 412,
 													"top": 80,
 													"width": 1,
-													"height": 561
+													"height": 569
 												}
 											],
 											"font": "Arial;13;0",
 											"left": 360,
 											"top": 40,
 											"width": 104,
-											"height": 601,
+											"height": 609,
 											"nameCompartment": {
 												"$ref": "AAAAAAFn2VZ0knFwXIQ="
 											},
@@ -1141,7 +1141,7 @@
 											"left": 624,
 											"top": 272,
 											"width": 17,
-											"height": 57
+											"height": 17
 										},
 										{
 											"_type": "UMLSeqMessageView",
@@ -1287,7 +1287,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 667,
-													"top": 362,
+													"top": 368,
 													"width": 96.0654296875,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -1310,7 +1310,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 715,
-													"top": 347,
+													"top": 353,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -1331,7 +1331,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 715,
-													"top": 382,
+													"top": 388,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -1351,7 +1351,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 797,
-													"top": 378,
+													"top": 384,
 													"width": 14,
 													"height": 29
 												}
@@ -1363,7 +1363,7 @@
 											"tail": {
 												"$ref": "AAAAAAFn/zb5ijSIzjQ="
 											},
-											"points": "634:378;797:378",
+											"points": "634:384;797:384",
 											"nameLabel": {
 												"$ref": "AAAAAAFn/zwQcDVuYV4="
 											},
@@ -2043,7 +2043,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role10"
+							"name": "Role10",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2051,7 +2052,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role11"
+							"name": "Role11",
+							"type": ""
 						}
 					]
 				}

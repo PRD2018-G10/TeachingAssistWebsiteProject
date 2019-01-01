@@ -1029,7 +1029,7 @@
 												"$ref": "AAAAAAFn2VCxanBYooY="
 											},
 											"font": "Arial;13;0",
-											"left": 904,
+											"left": 896,
 											"top": 232,
 											"width": 17,
 											"height": 57
@@ -1300,7 +1300,7 @@
 												"$ref": "AAAAAAFn2VCxanBYooY="
 											},
 											"font": "Arial;13;0",
-											"left": 896,
+											"left": 904,
 											"top": 576,
 											"width": 17,
 											"height": 33
@@ -1770,7 +1770,7 @@
 												"$ref": "AAAAAAFn2VCxanBYooY="
 											},
 											"font": "Arial;13;0",
-											"left": 288,
+											"left": 280,
 											"top": 712,
 											"width": 17,
 											"height": 33
@@ -2212,7 +2212,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role9"
+							"name": "Role9",
+							"type": ""
 						}
 					]
 				}

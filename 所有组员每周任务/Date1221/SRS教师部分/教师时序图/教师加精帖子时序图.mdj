@@ -42,7 +42,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "教师回复帖子时序图",
+									"name": "教师加精帖子时序图",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -65,7 +65,7 @@
 													"top": 5,
 													"width": 118,
 													"height": 13,
-													"text": "教师回复帖子时序图"
+													"text": "教师加精帖子时序图"
 												},
 												{
 													"_type": "LabelView",
@@ -212,8 +212,8 @@
 												"$ref": "AAAAAAFn2VCxanBYooY="
 											},
 											"font": "Arial;15;0",
-											"left": 184,
-											"top": 128,
+											"left": 176,
+											"top": 136,
 											"width": 17,
 											"height": 33
 										},
@@ -916,7 +916,7 @@
 													},
 													"font": "Arial;13;0",
 													"left": 680,
-													"top": 279,
+													"top": 276,
 													"width": 70.0654296875,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -939,7 +939,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 715,
-													"top": 294,
+													"top": 291,
 													"height": 13,
 													"alpha": 1.5707963267948966,
 													"distance": 25,
@@ -960,7 +960,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 716,
-													"top": 259,
+													"top": 256,
 													"height": 13,
 													"alpha": -1.5707963267948966,
 													"distance": 10,
@@ -981,7 +981,7 @@
 													"visible": false,
 													"font": "Arial;13;0",
 													"left": 628,
-													"top": 275,
+													"top": 272,
 													"width": 14,
 													"height": 25
 												}
@@ -993,7 +993,7 @@
 											"tail": {
 												"$ref": "AAAAAAFn/zcpnzSpHts="
 											},
-											"points": "804:275;628:275",
+											"points": "804:272;628:272",
 											"nameLabel": {
 												"$ref": "AAAAAAFn/znFvTUcCZ0="
 											},
@@ -2043,7 +2043,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role10"
+							"name": "Role10",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",

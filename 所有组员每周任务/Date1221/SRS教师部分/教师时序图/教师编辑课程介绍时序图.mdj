@@ -1662,7 +1662,7 @@
 											"left": 696,
 											"top": 528,
 											"width": 17,
-											"height": 41
+											"height": 17
 										},
 										{
 											"_type": "RectangleView",
@@ -2075,7 +2075,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role9"
+							"name": "Role9",
+							"type": ""
 						}
 					]
 				}

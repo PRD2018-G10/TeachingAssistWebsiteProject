@@ -212,8 +212,8 @@
 												"$ref": "AAAAAAFn2VCxanBYooY="
 											},
 											"font": "Arial;15;0",
-											"left": 184,
-											"top": 128,
+											"left": 176,
+											"top": 136,
 											"width": 17,
 											"height": 33
 										},
@@ -2043,7 +2043,8 @@
 							"_parent": {
 								"$ref": "AAAAAAFn2VCiI3BUrGg="
 							},
-							"name": "Role10"
+							"name": "Role10",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
