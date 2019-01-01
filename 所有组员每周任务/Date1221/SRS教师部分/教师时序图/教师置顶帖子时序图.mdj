@@ -42,7 +42,7 @@
 									"_parent": {
 										"$ref": "AAAAAAFn2VCxanBXIO4="
 									},
-									"name": "教师回复帖子时序图",
+									"name": "教师置顶帖子时序图",
 									"ownedViews": [
 										{
 											"_type": "UMLFrameView",
@@ -65,7 +65,7 @@
 													"top": 5,
 													"width": 118,
 													"height": 13,
-													"text": "教师回复帖子时序图"
+													"text": "教师置顶帖子时序图"
 												},
 												{
 													"_type": "LabelView",
