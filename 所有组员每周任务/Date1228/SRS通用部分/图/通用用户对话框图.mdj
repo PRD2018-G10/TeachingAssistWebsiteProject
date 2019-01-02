@@ -21349,9 +21349,9 @@
 											"font": "Arial;13;1",
 											"left": 373,
 											"top": 1447,
-											"width": 50,
+											"width": 56,
 											"height": 13,
-											"text": "课程"
+											"text": "进入首页"
 										},
 										{
 											"_type": "LabelView",
@@ -21380,7 +21380,7 @@
 									"font": "Arial;13;0",
 									"left": 368,
 									"top": 1440,
-									"width": 60,
+									"width": 66,
 									"height": 25,
 									"stereotypeLabel": {
 										"$ref": "AAAAAAFoCcp1aixJie8="
@@ -21435,14 +21435,14 @@
 									"font": "Arial;13;0",
 									"left": 368,
 									"top": 1465,
-									"width": 60
+									"width": 66
 								}
 							],
 							"font": "Arial;13;0",
 							"containerChangeable": true,
 							"left": 368,
 							"top": 1440,
-							"width": 60,
+							"width": 66,
 							"height": 40,
 							"nameCompartment": {
 								"$ref": "AAAAAAFoCcp1aixIqQ0="
@@ -21500,7 +21500,7 @@
 											"top": 1447,
 											"width": 84,
 											"height": 13,
-											"text": "显示课程公告"
+											"text": "查看公告"
 										},
 										{
 											"_type": "LabelView",
@@ -21652,7 +21652,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 310,
-									"top": 1426,
+									"top": 1425,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -21673,7 +21673,7 @@
 									"visible": null,
 									"font": "Arial;13;0",
 									"left": 312,
-									"top": 1411,
+									"top": 1410,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -21694,7 +21694,7 @@
 									"visible": false,
 									"font": "Arial;13;0",
 									"left": 305,
-									"top": 1455,
+									"top": 1454,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -21712,7 +21712,7 @@
 								"$ref": "AAAAAAFoCcpwlCw2p9A="
 							},
 							"lineStyle": 1,
-							"points": "250:1439;367:1455",
+							"points": "250:1439;367:1454",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFoCcrl7yyb5HA="
@@ -21745,7 +21745,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 469,
+									"left": 472,
 									"top": 1438,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -21766,7 +21766,7 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 469,
+									"left": 472,
 									"top": 1423,
 									"height": 13,
 									"alpha": 1.5707963267948966,
@@ -21787,7 +21787,7 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 469,
+									"left": 472,
 									"top": 1468,
 									"height": 13,
 									"alpha": -1.5707963267948966,
@@ -21806,7 +21806,7 @@
 								"$ref": "AAAAAAFoCcp1aixHpGc="
 							},
 							"lineStyle": 1,
-							"points": "428:1459;511:1459",
+							"points": "434:1459;511:1459",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAFoCcrr9iysu30="
@@ -21937,7 +21937,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoCa11k+795NI="
 							},
-							"name": "课程"
+							"name": "进入首页"
 						},
 						{
 							"_type": "UMLState",
@@ -21945,7 +21945,7 @@
 							"_parent": {
 								"$ref": "AAAAAAFoCa11k+795NI="
 							},
-							"name": "显示课程公告"
+							"name": "查看公告"
 						},
 						{
 							"_type": "UMLFinalState",
