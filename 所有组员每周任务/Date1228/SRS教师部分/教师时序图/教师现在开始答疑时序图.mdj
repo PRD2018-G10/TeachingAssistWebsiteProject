@@ -206,18 +206,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn2VENRXC43sg=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;15;0",
-											"left": 176,
-											"top": 128,
-											"width": 17,
-											"height": 233
-										},
-										{
 											"_type": "UMLSeqLifelineView",
 											"_id": "AAAAAAFn2VZ0knFvYts=",
 											"_parent": {
@@ -1678,30 +1666,6 @@
 											"activation": {
 												"$ref": "AAAAAAFn/zDPlAO2/f0="
 											}
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zFDMQPHbe8=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 176,
-											"top": 392,
-											"width": 17,
-											"height": 145
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFoCJofYxSo21I=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 640,
-											"top": 464,
-											"width": 17,
-											"height": 25
 										}
 									]
 								}

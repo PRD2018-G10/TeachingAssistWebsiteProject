@@ -206,18 +206,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn2VENRXC43sg=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;15;0",
-											"left": 176,
-											"top": 136,
-											"width": 17,
-											"height": 33
-										},
-										{
 											"_type": "UMLSeqLifelineView",
 											"_id": "AAAAAAFn2VZ0knFvYts=",
 											"_parent": {
@@ -1008,18 +996,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zmGWzUVHYk=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 624,
-											"top": 192,
-											"width": 17,
-											"height": 50
-										},
-										{
 											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAFn/zoypzU2Rjo=",
 											"_parent": {
@@ -1130,18 +1106,6 @@
 											"activation": {
 												"$ref": "AAAAAAFn/zoypzU6Bd4="
 											}
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zn7YjUwHQs=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 624,
-											"top": 272,
-											"width": 17,
-											"height": 57
 										},
 										{
 											"_type": "UMLSeqMessageView",
@@ -1255,18 +1219,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zp8mzVL4Vc=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 184,
-											"top": 288,
-											"width": 17,
-											"height": 50
-										},
-										{
 											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAFn/zwQcDVtNyU=",
 											"_parent": {
@@ -1376,18 +1328,6 @@
 											"activation": {
 												"$ref": "AAAAAAFn/zwQcDVxwsE="
 											}
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zvcfjVnQIE=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 184,
-											"top": 360,
-											"width": 17,
-											"height": 65
 										},
 										{
 											"_type": "UMLSeqMessageView",
@@ -1502,30 +1442,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zxG2jWCF/8=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 792,
-											"top": 432,
-											"width": 17,
-											"height": 50
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zyzKzWdAO8=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 616,
-											"top": 456,
-											"width": 17,
-											"height": 57
-										},
-										{
 											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAFn/z0LZDWo3GY=",
 											"_parent": {
@@ -1636,30 +1552,6 @@
 											"activation": {
 												"$ref": "AAAAAAFn/z0LZTWsMkc="
 											}
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/zzfOTWixQo=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 616,
-											"top": 536,
-											"width": 17,
-											"height": 50
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/z1TTjW+wAg=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 184,
-											"top": 584,
-											"width": 17,
-											"height": 41
 										}
 									]
 								}

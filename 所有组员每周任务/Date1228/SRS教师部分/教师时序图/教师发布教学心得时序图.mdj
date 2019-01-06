@@ -209,18 +209,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn2VENRXC43sg=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;15;0",
-											"left": 184,
-											"top": 128,
-											"width": 17,
-											"height": 33
-										},
-										{
 											"_type": "UMLSeqLifelineView",
 											"_id": "AAAAAAFn2VZ0knFvYts=",
 											"_parent": {
@@ -1008,42 +996,6 @@
 											}
 										},
 										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/w/6cvLugqw=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 872,
-											"top": 216,
-											"width": 17,
-											"height": 41
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/xBEdvL1g0g=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 688,
-											"top": 256,
-											"width": 17,
-											"height": 33
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/xCBVvL77MI=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 688,
-											"top": 304,
-											"width": 17,
-											"height": 41
-										},
-										{
 											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAFn/xDCYvMCvt4=",
 											"_parent": {
@@ -1154,18 +1106,6 @@
 											"activation": {
 												"$ref": "AAAAAAFn/xDCYvMGNng="
 											}
-										},
-										{
-											"_type": "RectangleView",
-											"_id": "AAAAAAFn/xD2mfMXoiM=",
-											"_parent": {
-												"$ref": "AAAAAAFn2VCxanBYooY="
-											},
-											"font": "Arial;13;0",
-											"left": 184,
-											"top": 344,
-											"width": 17,
-											"height": 50
 										}
 									]
 								}
